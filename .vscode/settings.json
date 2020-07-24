@@ -1,7 +1,7 @@
 {
     "python.pythonPath": "${env:HOME}/.zerynth2/sys/python/bin/python",
     "python.autoComplete.extraPaths": [
-        "${env:HOME}/.zerynth2/dist/r2.5.1/stdlib",
-        "${env:HOME}/.zerynth2/dist/r2.5.1/libs/official"
+        "${env:HOME}/.zerynth2/dist/r2.6.0/stdlib",
+        "${env:HOME}/.zerynth2/dist/r2.6.0/libs/official"
     ]
 }
